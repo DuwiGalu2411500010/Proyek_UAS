@@ -36,3 +36,4 @@ Buka browser dan akses:
 http://localhost/uas_kasirmini
 
 Rest API siap digunakan dan dapat diakses oleh aplikasi Android
+
